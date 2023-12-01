@@ -1,0 +1,9 @@
+name: advent_of_code
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
